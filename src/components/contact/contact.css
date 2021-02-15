@@ -1,0 +1,21 @@
+.contact-main {
+  background-color: #323680;
+  text-align: center;
+  margin-top: -10px;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.contact-form {
+  color: #ffffff;
+  font-size: 30px;
+  margin-top: 50px;
+}
+.contact-form-input {
+  height: 40px;
+  width: 150px;
+}
+.contact-social-icons {
+  margin-top: 50px;
+}

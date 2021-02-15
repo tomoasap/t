@@ -1,0 +1,19 @@
+.home-main {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 35vh;
+  height: 56vh;
+}
+.home-main p {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.home-main h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+}

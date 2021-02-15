@@ -1,0 +1,12 @@
+.services-main {
+  text-align: center;
+  margin: auto;
+  padding-top: 5%;
+  max-width: 1200px;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-bottom: 4%;
+}
+.services-grid {
+  padding-top: 75px;
+}
